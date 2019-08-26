@@ -1,2 +1,2 @@
-# Artificial Inteligence for Business:
+# Artificial Intelligence for Business:
 ## 1 Process optimization
