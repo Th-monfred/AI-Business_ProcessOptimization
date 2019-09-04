@@ -1,2 +1,2 @@
 # Artificial Intelligence for Business:
-## 1 Process optimization
+## Optimization process in a warehouse
